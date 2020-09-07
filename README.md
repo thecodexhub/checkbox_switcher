@@ -1,6 +1,6 @@
 # Checkbox Switcher
 
-Animated Checkbox Switcher developed using Flutter.
+User interactive Animated Checkbox Switcher developed using Flutter.
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
